@@ -9,5 +9,3 @@
 - ⚽️ Forever love *Jiangsu F.C.* ❤️
 
 ![IvanWoo22's trophy](https://github-profile-trophy.vercel.app/?username=IvanWoo22)
-
-![Metrics](https://metrics.lecoq.io/IvanWoo22?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
