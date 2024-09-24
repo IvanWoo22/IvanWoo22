@@ -4,7 +4,7 @@
 ### Hi there 👋  I am ...
 
 - 🧬 A graduate student in **EPIGENETICS**.
-- 🐒 A fan of *Attack on Titan* for 7 years.
+- 🐒 A fan of *Attack on Titan*. Tatakae, Tatakae, TATAKAE!
 - 🛠 A loafer who likes to fool around.
 - ⚽️ Forever love *Jiangsu F.C.* ❤️
 
